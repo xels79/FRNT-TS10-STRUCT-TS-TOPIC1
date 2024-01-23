@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "lib":["es2022", "dom"],
+        "module": "ESNext",
+        "moduleResolution": "Node",
+        "outDir": ".",
+        "experimentalDecorators": false,
+        "esModuleInterop": true
+    },
+    "files":[
+        "index.ts"
+    ],
+    "extends": "./tsconfig_ex.json"
+}

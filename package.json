@@ -1,0 +1,17 @@
+{
+  "name": "topic1",
+  "version": "1.0.0",
+  "description": "Задание тема FRNT-TS10",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alrxandr Schukin",
+  "license": "ISC",
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.3"
+  },
+  "dependencies": {
+    "ts-loader": "^9.5.1"
+  }
+}
